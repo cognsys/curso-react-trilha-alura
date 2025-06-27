@@ -2,8 +2,8 @@ No curso, usaremos uma ferramenta chamada Visual Studio Code, que é um editor d
 
 Para baixar o VSCODE, você pode procurar no Google por Visual Studio Code e clicar no primeiro link que aparece:
 
-![Texto alternativo](aula1-img1.jpg)
+![Texto alternativo](aula1-img1.webp)
 
 Se o seu sistema operacional for Windows você pode clicar para baixar no botão Download for Windows:
 
-![Texto alternativo](aula1-img2.jpg)
+![Texto alternativo](aula1-img2.webp)
